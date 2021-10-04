@@ -1,4 +1,9 @@
-# primeiro-projeto
+# Campeonato Brasileiro
+
+## Projeto em Vue.js e Vuetify feito no treinamento do Hackaton Decola
+
+![gif](https://github.com/fernanda-pls/brasileirao-vue/raw/master/gif-brasileirao.gif)
+
 
 ## Project setup
 ```
